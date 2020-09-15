@@ -1,25 +1,3 @@
-// boolean
-
-let isDone: boolean = false;
-
-// number
-let count: number = 10;
-
-// string
-let names: string = 'semliker';
-
-// symbol
-// const sym = Symbol();
-// let obj = {
-//   [sym]: 'semlinker',
-// };
-
-// console.log(obj[sym]);
-
-// array
-let list: number[] = [1, 2, 3];
-
-let list2: Array<number> = [1, 2, 3]; // Array<number>泛型语法。
 
 // enum
 // 通过观察数字枚举和字符串枚举的编译结果，我们可以知道数字枚举除了支持
