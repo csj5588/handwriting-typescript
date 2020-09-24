@@ -1,4 +1,4 @@
-// implements 用户限制类的写法
+// implements (使生效、贯彻、执行、实施) 用户限制类的写法
 
 interface test {
   name: string;
