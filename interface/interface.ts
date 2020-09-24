@@ -54,3 +54,5 @@ interface StringSet {
 
 let arr1: StringSet = ['hello', 'world']
 console.log(arr1[0])
+
+// interface 就是对参数、函数、数组 类  的限制。🚫
