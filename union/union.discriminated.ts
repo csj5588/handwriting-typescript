@@ -36,3 +36,5 @@ interface Truck {
 // 基于前面定义的三个接口，我们可以创建一个Vehicle联合类型
 
 type Vehicle = Motorcycle | Car | Truck;
+
+// 现在我们就可以开始使用Vehicle联合类型，对于Vehicle类型的变量，它可以表示不同类型的车辆。
