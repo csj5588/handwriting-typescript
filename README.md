@@ -1,6 +1,7 @@
 # handwriting typescripts
   记录typescript知识点
 # 目录结构
+```
 
 |-- github
     |-- README.md
@@ -31,6 +32,7 @@
         |-- interface.js
         |-- interface.ts
 
+```
 # 如何生成目录结构
 
 ```shell
