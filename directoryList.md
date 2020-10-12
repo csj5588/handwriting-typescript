@@ -24,6 +24,17 @@
     |   |-- tuple.ts
     |   |-- unknown.ts
     |   |-- void.ts
+    |-- class
+    |   |-- abstract.ts
+    |   |-- class.js
+    |   |-- class.ts
+    |   |-- extends.js
+    |   |-- extends.ts
+    |   |-- getter.js
+    |   |-- getter.ts
+    |   |-- private.ts
+    |   |-- reload.js
+    |   |-- reload.ts
     |-- declare
     |   |-- declare.ts
     |-- function
