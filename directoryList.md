@@ -41,6 +41,17 @@
     |   |-- function.reload.js
     |   |-- function.reload.ts
     |   |-- function.ts
+    |-- generics
+    |   |-- class.ts
+    |   |-- extends.ts
+    |   |-- generics.ts
+    |   |-- in.ts
+    |   |-- infer.ts
+    |   |-- interface.ts
+    |   |-- keyof.ts
+    |   |-- partial.ts
+    |   |-- typeof.js
+    |   |-- typeof.ts
     |-- guard
     |   |-- guard.diy.js
     |   |-- guard.diy.ts
