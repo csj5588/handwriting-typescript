@@ -1,5 +1,7 @@
 |-- github
     |-- README.md
+    |-- TSC.md
+    |-- compileContext.md
     |-- directoryList.md
     |-- array
     |   |-- array.js
@@ -37,6 +39,15 @@
     |   |-- reload.ts
     |-- declare
     |   |-- declare.ts
+    |-- decorators
+    |   |-- class.js
+    |   |-- class.ts
+    |   |-- decorators.ts
+    |   |-- method.ts
+    |   |-- params.js
+    |   |-- params.ts
+    |   |-- property.js
+    |   |-- property.ts
     |-- function
     |   |-- function.reload.js
     |   |-- function.reload.ts
