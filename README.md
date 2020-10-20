@@ -1,5 +1,6 @@
 # handwriting typescripts
-  记录typescript知识点
+  记录typescript知识点，手写所有语法原理及例子。
+  
 ## 目录结构
 ```
 |-- github
