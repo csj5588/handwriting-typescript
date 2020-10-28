@@ -1,6 +1,13 @@
 # handwriting typescripts
   记录typescript知识点，手写所有语法原理及例子。
 
+
+## 如何编译
+
+```shell
+tsc xxx.ts
+```
+
 ## TypeScript开发辅助工具
 
 - [typescript playground](https://www.typescriptlang.org/play/) 简介：TypeScript 官方提供的在线 TypeScript 运行环境，利用它你可以方便地学习 TypeScript 相关知识与不同版本的功能特性。
