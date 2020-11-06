@@ -1,6 +1,5 @@
 # handwriting typescripts
-  记录typescript知识点，手写所有语法原理及例子。
-
+  记录typescript知识点，手写所有语法原理及例子。持续更新
 
 ## 如何编译
 
